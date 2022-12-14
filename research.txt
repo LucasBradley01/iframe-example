@@ -1,0 +1,77 @@
+My post
+
+POST /?ci=js/3.8.4 HTTP/2
+Host: api.fpjs.io
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:107.0) Gecko/20100101 Firefox/107.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain
+Content-Length: 4485
+Origin: https://www.lbradley.net
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+TE: trailers
+Referer: https://www.lbradley.net/
+Pragma: no-cache
+Cache-Control: no-cache
+
+POST /?ci=js/3.8.5 HTTP/2
+Host: api.fpjs.io
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:107.0) Gecko/20100101 Firefox/107.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain
+Content-Length: 4480
+Origin: https://www.lbradley.net
+Connection: keep-alive
+Referer: https://www.lbradley.net/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+TE: trailers
+
+
+
+
+
+
+
+HTTP/2 403 Forbidden
+date: Tue, 13 Dec 2022 23:48:39 GMT
+content-type: text/plain
+content-length: 340
+server: nginx
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.lbradley.net
+access-control-expose-headers: Retry-After
+content-security-policy: default-src 'none'; frame-ancestors 'none'
+referrer-policy: no-referrer
+strict-transport-security: max-age=63072000
+vary: Origin
+x-content-type-options: nosniff
+x-frame-options: DENY
+X-Firefox-Spdy: h2
+
+
+
+
+HTTP/2 200 OK
+date: Tue, 13 Dec 2022 23:50:37 GMT
+content-type: text/plain
+content-length: 471
+server: nginx
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.lbradley.net
+access-control-expose-headers: Retry-After
+content-security-policy: default-src 'none'; frame-ancestors 'none'
+referrer-policy: no-referrer
+set-cookie: _iidt=fratItAkSL97BFMzqXMVursPmrDGHmEmE8dIRPQimMnUrxEy0Z/2vNDBO/vqUVunwEUKmWsPLCZfgy25ZHH1OfkyXoDDlcY=; Path=/; Domain=fpjs.io; Expires=Wed, 13 Dec 2023 23:50:37 GMT; HttpOnly; Secure; SameSite=None
+strict-transport-security: max-age=63072000
+vary: Origin
+x-content-type-options: nosniff
+x-frame-options: DENY
+X-Firefox-Spdy: h2
